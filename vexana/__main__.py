@@ -98,6 +98,8 @@ Current Stats as Follow :-
 buttons = [
     [
         InlineKeyboardButton(text="Basic Help", callback_data="emiko_"),
+        InlineKeyboardButton(
+            text="VexanaFanClub", url="https://t.me/joinchat/bUur6UDhJMMzMmM1"),
     ],
     [
         InlineKeyboardButton(text="Main Help ❓", callback_data="help_back"),
@@ -108,6 +110,8 @@ buttons = [
     [
         InlineKeyboardButton(
             text="➕ Add To Me Your Group ➕", url="t.me/Vexana_Robot?startgroup=new"),
+        InlineKeyboardButton(
+            text="Vexana News", url="https://t.me/Vexana_Updates"),
     ],
 ]
 
