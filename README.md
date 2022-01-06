@@ -14,14 +14,44 @@
 ### Click Below Image To Deploy On
 ### 💙 Heroku 💙
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aksr-aashish/vexana1.0/tree/patch1.0.git"><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="50"></a></p>
-<p align="center">
-<a href="https://app.codacy.com/manual/aksr-aashish/aksr-aashish/vexana1.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/aksr-aashish/vexana2.0"> <img src="https://img.shields.io/github/repo-size/aksr-aashish/vexana2.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana2.0/commits/aksr-aashish"> <img src="https://img.shields.io/github/last-commit/aksr-aashish/vexana2.0?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana2.0/issues"> <img src="https://img.shields.io/github/issues/aksr-aashish/vexana2.0?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/aksr-aashish/vexana2.0/network/members"> <img src="https://img.shields.io/github/forks/aksr-aashish/vexana2.0?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+
+
+### Original Repo?📌
+•Original Repository of MizuharaSmexyBot Is now private there's no way you can find it anywhere now!
+If Someone's providing you the repository of mizuhara and saying this is the real one... He/She is scamming you for sure. Don't believe strangers on internet and Don't let them scam you.
+
+### Reason For Private Repo
+
+•Due to the so many kangers on telegram we decided to make Mizuhara's repo private.A
+s if so it won't effect the real Mizuhara speed or your Private info. 
+
+### Wanna Contribute? 
+
+•If you wanna contribute to Mizuhara now Just go To The [Mizuhara Support Group](https://t.me/chizuru_support) and ask the admin/owner that you wanna contribute and tell him/her what you wanna add if he'll eccept it then you'll be provided with another repo and asked to add your module/whatever change you want to accomplish if our Team get satisfied with your work then your work will be added to the real repo of Mizuhara with Proper credits. 
+
+### Before Going to Support Group -
+
+•Before going to support group make sure you've read and agreed to all the rules or else you know what happens. 
+
+Things TO get instant banned -
+
+•Offtopic 
+
+•Sending Porn 
+
+•Asking about original repo or code probs 
+
+•Deployement Issues of other bots 
+
+•Promoting your stuff 
+
+•Using language other than Proper English  
+
+•Asking For Sudo
+
+•Asking for Admin 
+
+•Bringing Your Gangs and Spamming
 
 
 
