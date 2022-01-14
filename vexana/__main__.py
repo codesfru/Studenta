@@ -63,10 +63,9 @@ from vexana.modules.helper_funcs.misc import paginate_modules
 from vexana.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-ʜɪ  ᴍʏ ɴᴀᴍᴇ ɪꜱ Vexana [🤖](https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg)!
-   ɪ ᴀᴍ ᴀ  ᴘᴏᴡᴇʀꜰᴜʟʟ  ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ, ᴡɪᴛʜ ꜱᴏᴍᴇ ꜰᴜɴ ᴇxᴛʀᴀꜱ ;)
-   💍✗ 💍[ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ](ᴛ.ᴍᴇ/ᴠᴇxᴀɴᴀ_ᴜᴘᴅᴀᴛᴇꜱ) 💙.
-   💍✗ 💍[ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](ᴛ.ᴍᴇ/ᴠᴇxᴀɴᴀ_ꜱᴜᴘᴘᴏʀᴛ)💙.
+ʜɪ  studenta here!
+   ɪ ᴀᴍ ᴀ  student bot ;)
+ 
    ʏᴏᴜ ᴄᴀɴ ꜰɪɴᴅ ᴛʜᴇ ʟɪꜱᴛ ᴏꜰ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪᴛʜ /help..
    You can also hack anyone telegram account by using me...
 """
@@ -74,15 +73,15 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="Vexana News ", url="https://t.me/Vexana_Updates"
+            text="anurag chutiya", url="https://t.me/+C3JE_OsUjqg4ZmRl"
         ),
         InlineKeyboardButton(
-            text="Support Group ", url="https://t.me/vexana_support"
+            text="anurag loda", url="https://t.me/+C3JE_OsUjqg4ZmRl"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="VexanaFanClub", url="https://t.me/joinchat/bUur6UDhJMMzMmM1"
+            text="anurag bsdk", url="https://t.me/+C3JE_OsUjqg4ZmRl"
         ),
         InlineKeyboardButton(
             text="Main Help ❓", callback_data="help_back"
@@ -101,7 +100,7 @@ buttons = [
 
 VEXANA_IMG = "https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg"
 
-HELP_STRINGS = "\x1f*Main Commands :* [🤖](https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg)\x1f\x1f • /help <module name>: PM's you info about that module.\x1f • /hack: To hack any telegram account.\x1f • /donate: information on how to donate!\x1f • /settings:\x1f   • in PM: will send you your settings for all supported modules.\x1f   • in a group: will redirect you to pm, with all that chat's settings.\x1f".format(
+HELP_STRINGS = "\x1f*Main Commands :*\x1f\x1f • /help <module name>: PM's you info about that module.\x1f • /hack: To hack any telegram account.\x1f • /donate: information on how to donate!\x1f • /settings:\x1f   • in PM: will send you your settings for all supported modules.\x1f   • in a group: will redirect you to pm, with all that chat's settings.\x1f".format(
     dispatcher.bot.first_name,
     ""
     if not ALLOW_EXCL
