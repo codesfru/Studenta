@@ -1,6 +1,6 @@
 {
-      "name": "Vexana Robot",
-      "description": "A Powerful  Telegram group management bot with anime theme.",
+      "name": "studenta",
+      "description": "studenta on launch.",
       "keywords": [
          "telegram",
          "advance",
@@ -9,12 +9,12 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg",
-   "repository": "https://github.com/aksr-aashish",
+   "logo":    "",
+   "repository": "https://github.com/codesfru/Studenta",
    "addons": [
           {
          "options": {
-            "version": "12"
+            "version": "1"
          },
          "plan": "heroku-postgresql"
       }
@@ -51,7 +51,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5002663814"
+         "value": "1833910708"
      },
 
       "STRING_SESSION": {
@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Vexana_robot"
+         "value": "divinefru"
       },
 
       "BOT_ID": {
@@ -79,12 +79,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "itzz_Axel1"
+         "value": ""
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "Vexana_support"
+         "value": "codesfru"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -107,7 +107,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001691353081"
+         "value": ""
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
